@@ -1,16 +1,24 @@
-# application_de_supervision
+# erp-supervision-app realized in the context of an End of studies project
 
-A new Flutter application.
+A Flutter entreprise resource planning application for remote supervision.
+the app allows:
+- showing statistics in the form of pie charts or bar charts about storage capacity, production rates...
+- receiving realtime notifications about order preparation
+- realtime group chat conversations
+- the visualization of security cameras live-streams using RTSP protocol 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Front-end
+Flutter
+Dart
 
-A few resources to get you started if this is your first Flutter project:
+# Back-end
+Spring 
+PostrgreSQL
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Demonstration:
+
+
+https://github.com/fawezz/erp-supervision-app_PFE_licence/assets/99675442/e6af05c5-093d-44bc-9d76-4d6f331515e7
+
